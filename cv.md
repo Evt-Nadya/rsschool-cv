@@ -7,6 +7,7 @@
 | ------ | ------ |
 | GitHub | https://github.com/Evt-Nadya|
 | Gmail |evtuhova20vek@gmail.com |
+| vk |https://vk.com/nadya_evt|
 | Phone number | +375(29)2750227 |
 
 **Summary**
