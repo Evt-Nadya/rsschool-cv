@@ -26,10 +26,12 @@ My negative sides: emotionality.
 - **Knowledge:** OOP
 
 **Experience**
+
 Writing a course project in UML. Topic of the project: 
 Object-oriented analysis and software design. Online store software.
 
 **Education**
+
 - Belarusian State University of Informatics and Radioelectronics, 
 Minsk, Belarus — Third-year student of Automated information 
 processing systems
@@ -37,4 +39,5 @@ processing systems
 - Online courses on YouTube from alishev (Spring Framework and JavaEE)
 
 **English**
+
 A2
