@@ -1,11 +1,14 @@
 **First Name: Nadzeya**
+
 **Last Name: Yeutukhova**
+
 **My Contacs:**
 | Source | Links |
 | ------ | ------ |
 | GitHub | https://github.com/Evt-Nadya|
 | Gmail |evtuhova20vek@gmail.com |
 | Phone number | +375(29)2750227 |
+
 **Summary**
 >I am interested in Full Stack application development. 
 I want to improve my skills, learn more about software 
