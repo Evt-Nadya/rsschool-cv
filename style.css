@@ -1,0 +1,24 @@
+h1{
+color:rgb(21, 21, 94);
+}
+
+h2{
+    color:rgb(21, 21, 94);
+}
+
+.box{
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90%;
+}
+
+TD.leftcol {
+    vertical-align: top;
+    margin: 10px;
+}
+
+.round {
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px;
+   }
